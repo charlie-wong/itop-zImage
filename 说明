@@ -1,0 +1,5 @@
+1. 此内核版本号是 3.0.15
+2. 此内核版本号和Android4.0.3配套使用
+3. 次内核用GCC/G++ 4.8.4 编译后可在板子上正常使用
+4. 配置为安卓版内核 $make iTop-4412_defconfig
+5. 配置为QT版内核  $cp config_for_linux_7.0 .config
