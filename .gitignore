@@ -108,3 +108,11 @@ all.config
 
 # Version file
 .version
+
+#############################
+# for cscope and tags
+tags
+cscope.po.out
+cscope.in.out
+cscope.out
+#############################
